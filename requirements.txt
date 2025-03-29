@@ -1,3 +1,6 @@
 numpy
 tensorflow
 pandas
+notebook
+jupyterlab
+matplotlib
