@@ -4,3 +4,4 @@ pandas
 notebook
 jupyterlab
 matplotlib
+scikit-learn
