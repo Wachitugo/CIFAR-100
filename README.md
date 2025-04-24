@@ -37,7 +37,7 @@ A pesar de usar una arquitectura MLP (en lugar de CNNs) y trabajar con imágenes
 ---
 
 ## 📁 Estructura del Repositorio
-
+```
 CIFAR-100/
 ├── data/
 │   ├── meta/
@@ -59,7 +59,7 @@ CIFAR-100/
 │   └── requirements.txt
 
 ---
-
+```
 ## 🔍 Análisis y Conclusiones
 
 El análisis del rendimiento del modelo ofrece los siguientes puntos clave:
